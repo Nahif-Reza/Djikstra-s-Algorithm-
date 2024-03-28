@@ -1,7 +1,3 @@
-//This is my implementation of Djikstra's Algorithm.
-//To represent the Graph I have used an Adjacency List. 
-//I have used priority queue (Min Heap) to efficiently find the node with the shortest distance.
-
 #include<bits/stdc++.h>
 using namespace std;
  
